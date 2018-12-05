@@ -1,0 +1,8 @@
+composer.phar
+vendor/
+.env
+
+# phpStorm
+.idea/workspace.xml
+.idea/tasks.xml
+*/.iws

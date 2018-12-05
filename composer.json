@@ -1,0 +1,24 @@
+{
+  "name": "raysolomon/php-oauth-client",
+  "description": "PHP OAuth 1.0a Client",
+  "type": "library",
+  "version": "1.0.0",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ray Solomon",
+      "email": "657522+RaySolomon@users.noreply.github.com",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "RaySolomon\\OAuthClient\\": "src/"
+    }
+  },
+  "archive": {
+    "exclude": [
+      ".idea/"
+    ]
+  }
+}
